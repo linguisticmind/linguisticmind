@@ -4,7 +4,7 @@
 | --- | --- |
 | [**search-in-subs**](https://github.com/linguisticmind/search-in-subs) | Search for words in [SRT](https://en.wikipedia.org/wiki/SubRip#Format) subtitle files. |
 | [**ezedl**](https://github.com/linguisticmind/ezedl) | An [mpv EDL](https://github.com/mpv-player/mpv/blob/master/DOCS/edl-mpv.rst) preprocessor. |
-| [**mpv-scripts**](https://github.com/linguisticmind/mpv-scripts) | Scripts for [mpv](https://github.com/mpv-player/mpv) player. |
+| [**mpv-scripts**](https://github.com/linguisticmind/mpv-scripts) | A collection of scripts for [mpv](https://github.com/mpv-player/mpv) player. |
 
 ### File management
 
