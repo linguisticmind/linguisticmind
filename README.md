@@ -10,7 +10,7 @@
 
 | Name | Description |
 | --- | --- |
-| [**fix-digits**](https://github.com/linguisticmind/fix-digits) | Manage numbered files. |
+| [**fix-digits**](https://github.com/linguisticmind/fix-digits) | Manage numbered files. Add leading zeros, reorder, remove gaps, and more. |
 | [**reln**](https://github.com/linguisticmind/reln) | Move symlinks adjusting paths to their targets. |
 | [**unln**](https://github.com/linguisticmind/unln) | Delete symlinks and their targets. |
 
