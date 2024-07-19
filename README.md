@@ -3,7 +3,7 @@
 | Name | Description |
 | --- | --- |
 | [**search-in-subs**](https://github.com/linguisticmind/search-in-subs) | Search for words in [SRT](https://en.wikipedia.org/wiki/SubRip#Format) subtitle files (and play the results in [mpv](https://github.com/mpv-player/mpv)!). |
-| [**ezedl**](https://github.com/linguisticmind/ezedl) | An [mpv EDL](https://github.com/mpv-player/mpv/blob/master/DOCS/edl-mpv.rst) preprocessor. |
+| [**ezedl**](https://github.com/linguisticmind/ezedl) | Edit videos in plain text! An [mpv EDL](https://github.com/mpv-player/mpv/blob/master/DOCS/edl-mpv.rst) preprocessor. |
 | [**mpv-scripts**](https://github.com/linguisticmind/mpv-scripts) | A collection of scripts for [mpv](https://github.com/mpv-player/mpv) player. |
 
 ### File management
