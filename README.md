@@ -1,4 +1,4 @@
-## Multimedia
+### Multimedia
 
 | Name | Description |
 | --- | --- |
@@ -6,7 +6,7 @@
 | [**ezedl**](https://github.com/linguisticmind/ezedl) | An [mpv EDL](https://github.com/mpv-player/mpv/blob/master/DOCS/edl-mpv.rst) preprocessor. |
 | [**mpv-scripts**](https://github.com/linguisticmind/mpv-scripts) | Scripts for [mpv](https://github.com/mpv-player/mpv) player. |
 
-## File management
+### File management
 
 | Name | Description |
 | --- | --- |
@@ -14,7 +14,7 @@
 | [**reln**](https://github.com/linguisticmind/reln) | Move symlinks adjusting paths to their targets. |
 | [**unln**](https://github.com/linguisticmind/unln) | Delete symlinks and their targets. |
 
-## Programming and system management
+### Programming and system management
 
 | Name | Description |
 | --- | --- |
