@@ -1,3 +1,5 @@
+## Software
+
 ### Multimedia
 
 | Name | Description |
@@ -20,3 +22,7 @@
 | --- | --- |
 | [**pretty-declare-print**](https://github.com/linguisticmind/pretty-declare-print) | Prettify output of `declare -p`. |
 | [**pretty-apt-log**](https://github.com/linguisticmind/pretty-apt-log) | View [APT](https://en.wikipedia.org/wiki/APT_(software)) logs in an easy-to-read format. |
+
+## Donate
+
+<a href='https://ko-fi.com/linguisticmind'><img src='https://github.com/linguisticmind/linguisticmind/raw/master/res/kofi/kofi_support_me_1.svg' height='64'></a>
