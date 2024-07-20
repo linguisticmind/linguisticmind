@@ -25,4 +25,4 @@
 
 ## Donate
 
-<a href='https://ko-fi.com/linguisticmind'><img src='https://github.com/linguisticmind/linguisticmind/raw/master/res/kofi/kofi_support_me_1.svg' alt='Support me on Ko-fi' height='64'></a>
+<a href='https://ko-fi.com/linguisticmind'><img src='https://github.com/linguisticmind/linguisticmind/raw/master/res/kofi/kofi_support_me_1.svg' alt='Support me on Ko-fi' height='48'></a>
