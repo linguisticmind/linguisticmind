@@ -10,6 +10,11 @@
         <td>
             Search for words in <a href='https://en.wikipedia.org/wiki/SubRip#Format'>SRT</a> subtitle files (and play the results in <a href='https://github.com/mpv-player/mpv'>mpv</a>!).
         </td>
+        <td>
+            <a href='https://en.wikipedia.org/wiki/Bash_(Unix_shell)' title='Language: Bash'><img src='https://github.com/linguisticmind/linguisticmind/raw/master/res/languages/bash_logo.svg' height='24'></a>&ensp;
+            <a href='https://en.wikipedia.org/wiki/Sed' title='Language: GNU sed'><img src='https://github.com/linguisticmind/linguisticmind/raw/master/res/languages/sed_logo.svg' height='24'></a>&ensp;
+            <a href='https://en.wikipedia.org/wiki/Lua_(programming_language)' title='Language: Lua'><img src='https://github.com/linguisticmind/linguisticmind/raw/master/res/languages/lua_logo.svg' height='24'></a>
+        </td>
     </tr>
     <tr>
         <td>
@@ -18,6 +23,10 @@
         <td>
             Edit videos in plain text! An <a href='https://github.com/mpv-player/mpv/blob/master/DOCS/edl-mpv.rst'>mpv EDL</a> preprocessor.
         </td>
+        <td>
+            <a href='https://en.wikipedia.org/wiki/Bash_(Unix_shell)' title='Language: Bash'><img src='https://github.com/linguisticmind/linguisticmind/raw/master/res/languages/bash_logo.svg' height='24'></a>&ensp;
+            <a href='https://en.wikipedia.org/wiki/Lua_(programming_language)' title='Language: Lua'><img src='https://github.com/linguisticmind/linguisticmind/raw/master/res/languages/lua_logo.svg' height='24'></a>
+        </td>
     </tr>
     <tr>
         <td>
@@ -25,6 +34,9 @@
         </td>
         <td>
             A collection of scripts for <a href='https://github.com/mpv-player/mpv'>mpv</a> player.
+        </td>
+        <td>
+            <a href='https://en.wikipedia.org/wiki/Lua_(programming_language)' title='Language: Lua'><img src='https://github.com/linguisticmind/linguisticmind/raw/master/res/languages/lua_logo.svg' height='24'></a>
         </td>
     </tr>
 </table>
@@ -39,6 +51,9 @@
         <td>
             Manage numbered files. Add leading zeros, reorder, remove gaps, and more.
         </td>
+        <td>
+            <a href='https://en.wikipedia.org/wiki/Bash_(Unix_shell)' title='Language: Bash'><img src='https://github.com/linguisticmind/linguisticmind/raw/master/res/languages/bash_logo.svg' height='24'></a>&ensp;
+        </td>
     </tr>
     <tr>
         <td>
@@ -47,6 +62,9 @@
         <td>
             Move symlinks adjusting paths to their targets.
         </td>
+        <td>
+            <a href='https://en.wikipedia.org/wiki/Bash_(Unix_shell)' title='Language: Bash'><img src='https://github.com/linguisticmind/linguisticmind/raw/master/res/languages/bash_logo.svg' height='24'></a>&ensp;
+        </td>
     </tr>
     <tr>
         <td>
@@ -54,6 +72,9 @@
         </td>
         <td>
             Delete symlinks and their targets.
+        </td>
+        <td>
+            <a href='https://en.wikipedia.org/wiki/Bash_(Unix_shell)' title='Language: Bash'><img src='https://github.com/linguisticmind/linguisticmind/raw/master/res/languages/bash_logo.svg' height='24'></a>&ensp;
         </td>
     </tr>
 </table>
@@ -68,6 +89,10 @@
         <td>
             Prettify output of <code>declare -p</code>.
         </td>
+        <td>
+            <a href='https://en.wikipedia.org/wiki/Bash_(Unix_shell)' title='Language: Bash'><img src='https://github.com/linguisticmind/linguisticmind/raw/master/res/languages/bash_logo.svg' height='24'></a>&ensp;
+            <a href='https://en.wikipedia.org/wiki/Sed' title='Language: GNU sed'><img src='https://github.com/linguisticmind/linguisticmind/raw/master/res/languages/sed_logo.svg' height='24'></a>&ensp;
+        </td>
     </tr>
     <tr>
         <td>
@@ -75,6 +100,10 @@
         </td>
         <td>
             View <a href='https://en.wikipedia.org/wiki/APT_(software)'>APT</a> logs in an easy-to-read format.
+        </td>
+        <td>
+            <a href='https://en.wikipedia.org/wiki/Bash_(Unix_shell)' title='Language: Bash'><img src='https://github.com/linguisticmind/linguisticmind/raw/master/res/languages/bash_logo.svg' height='24'></a>&ensp;
+            <a href='https://en.wikipedia.org/wiki/Sed' title='Language: GNU sed'><img src='https://github.com/linguisticmind/linguisticmind/raw/master/res/languages/sed_logo.svg' height='24'></a>&ensp;
         </td>
     </tr>
 </table>
