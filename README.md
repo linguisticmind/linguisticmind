@@ -108,6 +108,8 @@
     </tr>
 </table>
 
+<a href='https://github.com/linguisticmind/linguisticmind/blob/master/res/languages/language_logos_copyright.md'>Language logos: attributions and licensing</a>
+
 ## Donate
 
 <a href='https://ko-fi.com/linguisticmind'><img src='https://github.com/linguisticmind/linguisticmind/raw/master/res/kofi/kofi_support_me_1.svg' alt='Support me on Ko-fi' height='48'></a>
