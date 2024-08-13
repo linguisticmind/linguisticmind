@@ -52,7 +52,7 @@
             Manage numbered files. Add leading zeros, reorder, remove gaps, and more.
         </td>
         <td>
-            <a href='https://en.wikipedia.org/wiki/Bash_(Unix_shell)' title='Language: Bash'><img src='https://github.com/linguisticmind/linguisticmind/raw/master/res/languages/bash_logo.svg' height='24'></a>&ensp;
+            <a href='https://en.wikipedia.org/wiki/Bash_(Unix_shell)' title='Language: Bash'><img src='https://github.com/linguisticmind/linguisticmind/raw/master/res/languages/bash_logo.svg' height='24'></a>
         </td>
     </tr>
     <tr>
@@ -63,7 +63,7 @@
             Move symlinks adjusting paths to their targets.
         </td>
         <td>
-            <a href='https://en.wikipedia.org/wiki/Bash_(Unix_shell)' title='Language: Bash'><img src='https://github.com/linguisticmind/linguisticmind/raw/master/res/languages/bash_logo.svg' height='24'></a>&ensp;
+            <a href='https://en.wikipedia.org/wiki/Bash_(Unix_shell)' title='Language: Bash'><img src='https://github.com/linguisticmind/linguisticmind/raw/master/res/languages/bash_logo.svg' height='24'></a>
         </td>
     </tr>
     <tr>
@@ -74,7 +74,7 @@
             Delete symlinks and their targets.
         </td>
         <td>
-            <a href='https://en.wikipedia.org/wiki/Bash_(Unix_shell)' title='Language: Bash'><img src='https://github.com/linguisticmind/linguisticmind/raw/master/res/languages/bash_logo.svg' height='24'></a>&ensp;
+            <a href='https://en.wikipedia.org/wiki/Bash_(Unix_shell)' title='Language: Bash'><img src='https://github.com/linguisticmind/linguisticmind/raw/master/res/languages/bash_logo.svg' height='24'></a>
         </td>
     </tr>
 </table>
@@ -91,7 +91,7 @@
         </td>
         <td>
             <a href='https://en.wikipedia.org/wiki/Bash_(Unix_shell)' title='Language: Bash'><img src='https://github.com/linguisticmind/linguisticmind/raw/master/res/languages/bash_logo.svg' height='24'></a>&ensp;
-            <a href='https://en.wikipedia.org/wiki/Sed' title='Language: GNU sed'><img src='https://github.com/linguisticmind/linguisticmind/raw/master/res/languages/sed_logo.svg' height='24'></a>&ensp;
+            <a href='https://en.wikipedia.org/wiki/Sed' title='Language: GNU sed'><img src='https://github.com/linguisticmind/linguisticmind/raw/master/res/languages/sed_logo.svg' height='24'></a>
         </td>
     </tr>
     <tr>
@@ -103,7 +103,7 @@
         </td>
         <td>
             <a href='https://en.wikipedia.org/wiki/Bash_(Unix_shell)' title='Language: Bash'><img src='https://github.com/linguisticmind/linguisticmind/raw/master/res/languages/bash_logo.svg' height='24'></a>&ensp;
-            <a href='https://en.wikipedia.org/wiki/Sed' title='Language: GNU sed'><img src='https://github.com/linguisticmind/linguisticmind/raw/master/res/languages/sed_logo.svg' height='24'></a>&ensp;
+            <a href='https://en.wikipedia.org/wiki/Sed' title='Language: GNU sed'><img src='https://github.com/linguisticmind/linguisticmind/raw/master/res/languages/sed_logo.svg' height='24'></a>
         </td>
     </tr>
 </table>
