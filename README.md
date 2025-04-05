@@ -18,6 +18,19 @@
     </tr>
     <tr>
         <td>
+            <a href='https://github.com/linguisticmind/dechapter'><b>dechapter</b></a>
+        </td>
+        <td>
+            Losslessly merge chaptered video footage.
+        </td>
+        <td>
+            <a href='https://en.wikipedia.org/wiki/Bash_(Unix_shell)' title='Language: Bash'><img src='https://github.com/linguisticmind/linguisticmind/raw/master/res/languages/bash_logo.svg' height='24'></a>&ensp;
+            <a href='https://en.wikipedia.org/wiki/Sed' title='Language: GNU sed'><img src='https://github.com/linguisticmind/linguisticmind/raw/master/res/languages/sed_logo.svg' height='24'></a>&ensp;
+            <a href='https://en.wikipedia.org/wiki/Lua_(programming_language)' title='Language: Lua'><img src='https://github.com/linguisticmind/linguisticmind/raw/master/res/languages/lua_logo.svg' height='24'></a>
+        </td>
+    </tr>
+    <tr>
+        <td>
             <a href='https://github.com/linguisticmind/ezedl'><b>ezedl</b></a>
         </td>
         <td>
@@ -82,6 +95,19 @@
 ### Programming and system management
 
 <table>
+    <tr>
+        <td>
+            <a href='https://github.com/linguisticmind/fstr'><b>fstr</b></a>
+        </td>
+        <td>
+            Substitute placeholders in strings.
+        </td>
+        <td>
+            <a href='https://en.wikipedia.org/wiki/Lua_(programming_language)' title='Language: Lua'><img src='https://github.com/linguisticmind/linguisticmind/raw/master/res/languages/lua_logo.svg' height='24'></a>&ensp;
+            <a href='https://en.wikipedia.org/wiki/Bash_(Unix_shell)' title='Language: Bash'><img src='https://github.com/linguisticmind/linguisticmind/raw/master/res/languages/bash_logo.svg' height='24'></a>&ensp;
+            <a href='https://en.wikipedia.org/wiki/Sed' title='Language: GNU sed'><img src='https://github.com/linguisticmind/linguisticmind/raw/master/res/languages/sed_logo.svg' height='24'></a>
+        </td>
+    </tr>
     <tr>
         <td>
             <a href='https://github.com/linguisticmind/pretty-declare-print'><b>pretty-declare-print</b></a>
